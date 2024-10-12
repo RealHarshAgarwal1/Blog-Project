@@ -1,7 +1,7 @@
 const  about= () => {
   return (
     <div>
-      ABout
+      <img src="/about.png" alt="" />
     </div>
   );
 }
