@@ -5,7 +5,7 @@ const Page = () => {
   return (
     <div>
         <h4>Not Found</h4>
-        <p>The page you are looking for does not exist.</p>
+        <p>The page you are looking for does not exist...</p>
         //Error 404 Message
         <Link href="/">Return to Home.</Link>        
     </div>
